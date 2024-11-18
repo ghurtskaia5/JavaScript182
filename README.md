@@ -43,3 +43,17 @@
         <li>Comments</li>
     </ul>
 </details>
+
+
+<details>
+    <summary>Workshop 3 (Conditionals, Arrays)</summary>
+    <br>
+    <ul>
+        <li>Conditionals (if; else; else if)</li>
+        <li>Logical Operators (&&; ||; !)</li>
+        <li>Arrays</li>
+        <li>Index</li>
+        <li>Manipulating Array elements</li>
+        <li>Sotring Arrays</li>
+    </ul>
+</details>
