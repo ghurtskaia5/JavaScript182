@@ -6,7 +6,7 @@
 - [Git basics](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
 - [Assignment 1](https://classroom.github.com/a/3vyGO5BO)
 - [Assignment 2](https://classroom.github.com/a/UAOl5SAV)
-- [Assignment 3](https://classroom.github.com/a/uKacETOn
+- [Assignment 3](https://classroom.github.com/a/uKacETOn)
 - [Assignment 4](https://classroom.github.com/a/ioA8N2Cp)
 
 
